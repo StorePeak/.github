@@ -1,4 +1,5 @@
-![StorePeak](https://user-images.githubusercontent.com/7737619/202860483-e33b59a6-dc7e-4f88-9b2a-1567f7a24497.png)
+![StorePeak](https://user-images.githubusercontent.com/7737619/202876376-01296460-1d0e-4e25-bf26-204c57f85962.png)
+
 
 
 # StorePeak
